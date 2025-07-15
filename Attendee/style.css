@@ -1,0 +1,36 @@
+/* General body and container styles */
+body {
+    background-color: #f4f4f4;
+    margin: 0;
+    padding-top: 70px; /* Space for header */
+}
+
+.container {
+    margin-top: 100px;
+}
+
+/* Custom button style */
+.btn-custom {
+    width: 100%;
+    background-color: #007bff;
+    color: #fff;
+}
+
+/* Table styling */
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Select dropdown style for RSVP status */
+.form-select {
+    width: 100%;
+    padding: 6px;
+    margin-top: 10px;
+}
